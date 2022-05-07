@@ -2,15 +2,12 @@
 pragma solidity ^0.8.4;
 
 
-    interface IntWhitelist {
+    interface IntCryptoDevs {
 /**
      * @dev Returns a token ID owned by `owner` at a given `index` of its token list.
      * Use along with {balanceOf} to enumerate all of ``owner``'s tokens.
      */
-    function tokenOfOwnerByIndex(address owner, uint256 index)
-        external
-        view
-        returns (uint256 tokenId); 
+    function tokenOfOwnerByIndex(address owner, uint256 index)        external        view        returns (uint256 tokenId); 
 
     /**
      * @dev Returns the number of tokens in ``owner``'s account.

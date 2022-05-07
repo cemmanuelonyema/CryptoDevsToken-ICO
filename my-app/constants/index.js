@@ -1,0 +1,2 @@
+ALCHEMY_API_KEY_URL="https://eth-rinkeby.alchemyapi.io/v2/dDKxRrkZKewa2A-pvo-0OTSxNJaShdKQ"
+RINKEBY_PRIVATE_KEY="7768fccc95e0746186c2bc66011392f0d8ff7e80a229d93c52b574b505c7ee27"
