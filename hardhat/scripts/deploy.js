@@ -4,7 +4,7 @@ const { CRYPTO_DEVS_NFT_CONTRACT_ADDRESS } = require("../constants");
 
 async function main() {
   // Address of the Crypto Devs NFT contract that you deployed in the previous module
-  const cryptoDevsNFTContract = CRYPTO_DEVS_NFT_CONTRACT_ADDRESS;
+  const cryptoDevsNFTContract = CRYPTO_DEV_NFT_CONTRACT_ADDRESS;
 
   /*
     A ContractFactory in ethers.js is an abstraction used to deploy new smart contracts,
